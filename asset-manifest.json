@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/frc-sponsor-search/static/css/main.02118b32.css",
-    "main.js": "/frc-sponsor-search/static/js/main.287ab90f.js",
+    "main.js": "/frc-sponsor-search/static/js/main.a2ed80d8.js",
     "index.html": "/frc-sponsor-search/index.html",
     "main.02118b32.css.map": "/frc-sponsor-search/static/css/main.02118b32.css.map",
-    "main.287ab90f.js.map": "/frc-sponsor-search/static/js/main.287ab90f.js.map"
+    "main.a2ed80d8.js.map": "/frc-sponsor-search/static/js/main.a2ed80d8.js.map"
   },
   "entrypoints": [
     "static/css/main.02118b32.css",
-    "static/js/main.287ab90f.js"
+    "static/js/main.a2ed80d8.js"
   ]
 }
