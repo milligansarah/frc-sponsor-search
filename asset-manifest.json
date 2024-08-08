@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frc-sponsor-search/static/css/main.02118b32.css",
+    "main.js": "/frc-sponsor-search/static/js/main.419a1ee0.js",
+    "index.html": "/frc-sponsor-search/index.html",
+    "main.02118b32.css.map": "/frc-sponsor-search/static/css/main.02118b32.css.map",
+    "main.419a1ee0.js.map": "/frc-sponsor-search/static/js/main.419a1ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02118b32.css",
+    "static/js/main.419a1ee0.js"
+  ]
+}
